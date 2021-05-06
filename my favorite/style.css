@@ -1,0 +1,7 @@
+body {text-align:center;
+background-color:#00B0FF;}
+.line{height:6px; width:70px; background-color:black; margin-left:900px; auto} 
+.menu{list-style: none;font-family: sans-serif;float:right;top: 10px;
+right: 30px; cursor: pointer; color: black;}
+li{display: inline;padding-left: 10px;}
+#welcome {padding-top: 200px;}
